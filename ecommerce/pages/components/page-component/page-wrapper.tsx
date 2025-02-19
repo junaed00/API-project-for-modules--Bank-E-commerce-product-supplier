@@ -143,7 +143,7 @@ export const WrapperPage = ({ children, title }: PageProps): JSX.Element => {
         };
 
         updateUser(newUser);
-        <Alert severity="success">Account added successfully</Alert>;
+        <Alert severity="success">ACCOUNT ADDED!</Alert>;
         setModalOpen(false);
       }
       if (data?.error) {

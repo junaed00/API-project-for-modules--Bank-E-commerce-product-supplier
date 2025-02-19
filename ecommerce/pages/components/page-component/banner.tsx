@@ -1,10 +1,12 @@
 export const bannerData = [
-  "/almonds-banner.jpg",
-  "/pistachio4.jpeg",
-  "/walnuts1.jpg",
-  "/pistachio1.jpg",
-  "/cashew5.jpg",
-  "/pistachio3.jpg",
+  
+  "/sun2.webp",
+  "/sunglasses.jpeg",
+  "/wallets.jpg",
+  "/wallets1.jpg",
+  "/watches.webp",
+
+
   //   "https://rukminim1.flixcart.com/flap/3376/560/image/57267a180af306fe.jpg?q=50",
   //   "https://rukminim1.flixcart.com/flap/3376/560/image/ae9966569097a8b7.jpg?q=50",
   //   "https://rukminim1.flixcart.com/flap/3376/560/image/f6202f13b6f89b03.jpg?q=50",

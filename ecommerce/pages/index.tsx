@@ -5,7 +5,7 @@ import { WrapperPage } from "./components/page-component/page-wrapper";
 const Home: NextPage = () => {
   return (
     <>
-      <WrapperPage title="Goodies">{() => <Intro />}</WrapperPage>
+      <WrapperPage title="Home">{() => <Intro />}</WrapperPage>
     </>
   );
 };

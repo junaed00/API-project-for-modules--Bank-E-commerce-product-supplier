@@ -186,7 +186,7 @@ const TransactionInfoPromt = ({
       <Box sx={{ flexGrow: 1 }}>
         <Grid container spacing={2}>
           <Grid item xs={8}>
-            <Typography variant="h3">Bank Info</Typography>
+            <Typography variant="h3">BANK DETAILS</Typography>
           </Grid>
           <Grid item xs={4}>
             <Button

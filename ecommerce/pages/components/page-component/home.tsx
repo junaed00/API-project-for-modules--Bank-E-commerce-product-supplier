@@ -59,14 +59,12 @@ export const Intro = () => {
       <IntroPage>
         <div className="intro__page">
           <div className="__intro__title">
-            Goodies is now in your next door!
+           Welcome to our site, your destination for all your shopping needs!
           </div>
           <div className="__intro__body">
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the standard dummy text ever since
-              the 1500s, when an unknown printer took a galley of type and
-              scrambled it to make a type specimen book.
+            Discover a world of convenience and endless possibilities as you explore our wide range of products.
+            Shop with confidence and enjoy a seamless shopping experience with secure transactions and fast shipping.
             </p>
           </div>
         </div>

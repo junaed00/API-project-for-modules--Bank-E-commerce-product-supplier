@@ -144,7 +144,7 @@ export const Nav = ({
             passHref
           >
             <button className="navbar__link" style={{ fontSize: "22px" }}>
-              Goodies
+              JM MART
             </button>
           </Link>
         </div>
@@ -158,7 +158,7 @@ export const Nav = ({
           >
             <IconButton color="inherit" sx={{ float: "right" }}>
               <Badge badgeContent={products.length} color="primary">
-                <div className="navbar__link">Cart</div>
+                <div className="navbar__link">YOUR CART</div>
               </Badge>
             </IconButton>
           </Link>
@@ -166,7 +166,7 @@ export const Nav = ({
         {!session && !loading && (
           <div className="navbar__item">
             <button className="navbar__link" onClick={() => signIn()}>
-              Login
+              LOG IN HERE
             </button>
           </div>
         )}
@@ -277,14 +277,14 @@ export const Nav = ({
                               pathname: `/users/${user?.email}`,
                             }}
                           >
-                            Manage Profile
+                            YOUR PROFILE SETTINGS
                           </Link>
                         </Button>
                         <Button
                           className="navbar__link"
                           onClick={() => signOut()}
                         >
-                          Logout
+                          LOG OUT
                         </Button>
                       </Box>
                     </Box>

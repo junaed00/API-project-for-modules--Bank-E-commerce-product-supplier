@@ -144,7 +144,7 @@ const CartDashboard = () => {
 const Home = () => {
   return (
     <>
-      <WrapperPage title="Your Cart">{() => <CartDashboard />}</WrapperPage>
+      <WrapperPage title="YOUR CART">{() => <CartDashboard />}</WrapperPage>
     </>
   );
 };
