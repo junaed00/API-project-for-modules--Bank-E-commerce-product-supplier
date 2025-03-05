@@ -192,5 +192,3 @@ N.B - After chaning `.env.local` or `.env`, you must restart your server.
 ### Login
 
 Now you can log in to the app. After successful login, you might be asked to set up your bank details. The bank details must be a valid account no and must be created through bank API. You can create your bank account from the bank API - [Create a new bank account](https://github.com/sadekujjaman/CSE446-API-Project/blob/develop/bank/README.md#create-a-new-bank-account).
-
-![Home Page](https://github.com/sadekujjaman/CSE446-API-Project/blob/develop/ecommerce/images/bank-details.png)
